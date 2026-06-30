@@ -48,8 +48,8 @@ This project was created to explore speech recognition, voice interaction, and P
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/jarvis-voice-chatbot.git
-cd jarvis-voice-chatbot
+git clone https://github.com/Nikhil-Khanna-be/Jarvis-Voice-Chatbot.git
+cd Jarvis-Voice-Chatbot
 ```
 
 ### Install Dependencies
@@ -63,7 +63,7 @@ pip install SpeechRecognition pyttsx3 pyaudio
 ## Run the Project
 
 ```bash
-python jarvis.py
+python main.py
 ```
 
 ---
